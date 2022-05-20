@@ -256,7 +256,7 @@ export class GuiModel {
                             "type": "newButton",
                             "name": "NewLocation",
                             "icon": "fa-cubes",
-                            "color": "yellow",
+                            "color": "green",
                             "width": 2,
                             "form": {
                                 "form": "LocationForm"
@@ -417,7 +417,7 @@ export class GuiModel {
                     {
                     "type": "newButton",
                     "name": "AddActivity",
-                    "icon": "fa-weixin",
+                    "icon": "fa-gamepad",
                     "color": "green",
                     "form": {
                     "form": "AddActivityForm"
