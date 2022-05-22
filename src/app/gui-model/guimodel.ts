@@ -398,8 +398,8 @@ export class GuiModel {
                     },
                     {
                     "type": "list",
-                    "icon": "fa-gamepad",
-                    "color": "green-sea",
+                    "icon": "fa-user",
+                    "color": "blue",
                     "search": true,
                     "url": "/activity/:activityKey/friend ",
                     "form": {
