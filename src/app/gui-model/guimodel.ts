@@ -381,8 +381,8 @@ export class GuiModel {
                     {
                         "type": "button",
                         "name": "EditActivity",
-                        "icon": "fa-weixin",
-                        "color": "green",
+                        "icon": "fa-gamepad",
+                        "color": "green-sea",
                         "form": {
                         "form": "AddActivityForm"
                         }
@@ -390,16 +390,16 @@ export class GuiModel {
                     {
                     "type": "newButton",
                     "name": "AddFriend",
-                    "icon": "fa-weixin",
-                    "color": "green",
+                    "icon": "fa-user",
+                    "color": "blue",
                     "form": {
                     "form": "FriendForm"
                     }
                     },
                     {
                     "type": "list",
-                    "icon": "fa-weixin",
-                    "color": "wisteria",
+                    "icon": "fa-gamepad",
+                    "color": "green-sea",
                     "search": true,
                     "url": "/activity/:activityKey/friend ",
                     "form": {
